@@ -13,6 +13,7 @@ function index (data) {
     return (
       <Def>
           <main>
+          <link rel="stylesheet" href="/css/style.css" />
               <h1>PLACES INDEX PAGE</h1>
               {placesFormatted}
           </main>
